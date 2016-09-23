@@ -1,0 +1,1 @@
+A simple implementation of the Reversi game in Java
